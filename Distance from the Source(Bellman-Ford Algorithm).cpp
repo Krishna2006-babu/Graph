@@ -3,6 +3,7 @@
     Company Tags                : Amazon, Microsoft (Generally asked as a follow up qn of Dijkstra's Algorithm)
     GfG Link                    : https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1
 */
+//tc-(V − 1) × E  ≈  V × E
 
 class Solution {
   public:
